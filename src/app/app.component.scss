@@ -1,0 +1,19 @@
+.top{
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+}
+.btn2{
+ display: flex;
+ justify-content: flex-start;
+ margin-left: 7em;
+ margin-bottom: 2em;
+}
+.card{
+  .card-body{
+    .err{
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+}
